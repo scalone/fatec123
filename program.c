@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
     if (strcmp(argv[1], "kaiopessoni") == 0) {
       printf("\nWhat's up dude!\n");
     }
->>>>>>> 0e760bdbdc57ace9b0291cb003018c6727380e33
+
     if (strcmp(argv[1], "rafa.magalhas") == 0) {
       printf("\nNamaste!\n");
     }
@@ -36,5 +36,11 @@ int main(int argc, char *argv[])
       printf("\nVai (...)!\n");
     }
 
+    if (strcmp(argv[1], "johncdsud") == 0){
+       printf("\n Bao!\n");
+    }
   }
+
 }
+
+//simple
