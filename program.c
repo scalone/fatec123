@@ -11,5 +11,9 @@ int main(int argc, char *argv[])
     if (strcmp(argv[1], "kaiopessoni") == 0) {
       printf("\nWhat's up dude!\n");
     }
+    if (strcmp(argv[1], "getuliovinicius") == 0) {
+      printf("\nVai (...)!\n");
+
+    }
   }
 }
