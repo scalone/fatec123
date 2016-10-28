@@ -9,6 +9,7 @@ int main(int argc, char *argv[])
       printf("\nCowabunga!\n");
     }
 
+
     if (strcmp(argv[1], "AndreiaAlves") == 0) {
       printf("\nHello world Git!\n");
     }
@@ -25,5 +26,9 @@ int main(int argc, char *argv[])
 
     }
 
+    if (strcmp(argv[1], "johncdsud") == 0){
+       printf("\n Bao!\n");
+    }
   }
+
 }
