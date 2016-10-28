@@ -8,5 +8,8 @@ int main(int argc, char *argv[])
     if (strcmp(argv[1], "thiago.scalone") == 0) {
       printf("\nCowabunga!\n");
     }
+    if (strcmp(argv[1], "getuliovinicius") == 0) {
+      printf("\nVai (...)!\n");
+    }
   }
 }
