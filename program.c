@@ -13,7 +13,9 @@ int main(int argc, char *argv[])
       printf("\nHello world Git!\n");
     }
 
-
+    if (strcmp(argv[1], "Felipe Alexandre") == 0) {
+      printf("\nThe Winter is coming!\n");
+    }
     if (strcmp(argv[1], "kaiopessoni") == 0) {
       printf("\nWhat's up dude!\n");
     }
