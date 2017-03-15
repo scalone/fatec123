@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
       printf("\nWhat's up dude!\n");
     }
 
-    if (strcmp(argv[1], "rafa.magalhas") == 0) {
+    if (strcmp(argv[1], "Rafa Magalhas") == 0) {
       printf("\nNamaste!\n");
     }
 
